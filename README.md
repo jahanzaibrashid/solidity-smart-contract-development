@@ -1,1 +1,1 @@
-# solidity-smart-contract-development
+# Pleas look into the folder one by one evey foler is a saperate project
